@@ -3,7 +3,7 @@ Pequeño curso en español para el uso de Python para el análisis de datos fina
 
 # CONTENIDO
 
-1. Requerimientos:
+## 1. Requerimientos:
 Con el fin de evitar incompatibilidad de paquetes de Python, se usará la dsitribución de Python con Anaconda y se intalará el environment que se encuentra en este repositorio, usando el siguiente comando de Anaconda:
 
 conda env create -f environment.yml
