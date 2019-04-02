@@ -11,6 +11,8 @@ conda env create -f environment.yml
 Después de crear el environment, se activa con el comando de Anconda:
 activate Finance_Python.
 
+Es importante instalar a Jupyter con el comando: pip install jupyter
+
 ## 2. Numpy:
 Pequeño resumen del uso de la libreria Numpy
 
